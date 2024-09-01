@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul-sisodiya
-- 👀 I’m interested in web devloping.
-- 🌱 I’m currently learning in a GLA University
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning at GLA University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rahulsingh936805@gmail.com
 - 😄 Pronouns: ...
