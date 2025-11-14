@@ -1,4 +1,4 @@
-# Rahul Singh
+
 
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer | Problem Solver</h3>
