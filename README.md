@@ -9,7 +9,7 @@ Building real-world applications, mastering problem-solving, and exploring moder
 
 ---
 
-## 🌐 Social Profiles  
+## Social Profiles  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh-aa0b292b5)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-sisodiya)
@@ -19,7 +19,7 @@ Building real-world applications, mastering problem-solving, and exploring moder
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
 I'm Rahul Singh, a CSE student passionate about **software development, DSA, and creating practical, meaningful applications**.  
 I love building full-stack projects and exploring efficient solutions to real-world problems.
@@ -31,16 +31,16 @@ I love building full-stack projects and exploring efficient solutions to real-wo
 
 ---
 
-## 🎓 Education  
+## Education  
 **Bachelor of Technology – Computer Science Engineering**  
 GLA University, Mathura, Uttar Pradesh  
 📅 *2023 – Present*
 
 ---
 
-# 🚀 Projects  
+# Projects  
 
-### ⭐ **QTrack – Health Queue & Appointment Management System**  
+### **QTrack – Health Queue & Appointment Management System**  
 **Tech:** MERN Stack, React, Tailwind CSS, Node.js, Express, MongoDB  
 - Complete multi-role application: **User, Doctor, Admin**  
 - Real-time queue tracking and appointment flow  
@@ -52,7 +52,7 @@ GLA University, Mathura, Uttar Pradesh
 
 ---
 
-### ⭐ **EasyRead – Digital Book Reader App**  
+### **EasyRead – Digital Book Reader App**  
 **Tech:** MERN, React, Tailwind CSS  
 - Clean and distraction-free reading interface  
 - Upload, manage, and read books smoothly  
@@ -63,14 +63,14 @@ https://easyread-1.onrender.com/
 
 ---
 
-### 📝 **To-Do List App | HTML, CSS, JavaScript**  
+### **To-Do List App | HTML, CSS, JavaScript**  
 - Add, edit, and delete daily tasks  
 - Minimal and fully responsive UI  
 - Helps manage everyday work easily   
 
 ---
 
-## 🛠 Technical Skills  
+## **Technical Skills  
 
 **Languages:** Java, Python, C, JavaScript, MySQL, HTML, CSS  
 **Tools:** Git, VS Code, IntelliJ, Eclipse, Postman  
@@ -78,7 +78,7 @@ https://easyread-1.onrender.com/
 
 ---
 
-# 📊 GitHub Stats  
+# **GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=rahul-sisodiya&theme=tokyonight&hide_border=false&show_icons=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=rahul-sisodiya&theme=tokyonight&hide_border=false)  
